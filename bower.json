@@ -1,0 +1,24 @@
+{
+  "name": "Integrador-6to",
+  "homepage": "https://github.com/LuisGallegos/Integrador-6to",
+  "authors": [
+    "Luis Gallegos <lags960929@gmail.com>"
+  ],
+  "description": "This Project is the integration of AngularJS,ADODB with MSSQL",
+  "main": "general.php",
+  "keywords": [
+    "AngularJS",
+    "PHP",
+    "ADODB",
+    "MVCP",
+    "MSSQL"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
