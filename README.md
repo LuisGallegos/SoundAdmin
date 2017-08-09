@@ -1,7 +1,7 @@
 Systema de Administración de Audio:
 Universidad Politécnica de Querétaro
 
-Grupo: S112-6
+Grupo: S112-9
 
 Por:
 
